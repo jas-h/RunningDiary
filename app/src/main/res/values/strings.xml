@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RunningDiary</string>
+    <string name="distance">Distance (km)</string>
+    <string name="time">Time (min)</string>
+    <string name="pace">Pace</string>
+    <string name="speed">Speed</string>
+    <string name="calculate">Calculate</string>
+    <string name="forward"> >> </string>
+    <string name="pause">||</string>
+    <string name="back"> &lt; </string>
+    <string name="rewind"> &lt;&lt; </string>
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="transport_id" translatable="false">123</string>
+    <string name="firebase_path" translatable="false">locations</string>
+    <string name="firebase_email" translatable="false">yeyjasminetime@gmail.com</string>
+    <string name="firebase_password" translatable="false">runrunrun</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_refused">Permission was not granted</string>
+    <string name="permission_request_notice">Special Permission Requested</string>
+    <string name="app_permission_notice">This permission request is very important to your app</string>
+    <string name="failed_draw">Empty line path</string>
+    <string name="server_error">Server error.</string>
+</resources>

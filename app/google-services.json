@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "96023135185",
+    "firebase_url": "https://runningdiary-61c4f.firebaseio.com",
+    "project_id": "runningdiary-61c4f",
+    "storage_bucket": "runningdiary-61c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96023135185:android:abaf7afc1fa51d52",
+        "android_client_info": {
+          "package_name": "comp5216.sydney.edu.au.runningdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96023135185-s75dbvc860ncg9pb763e5te3fpih5crp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comp5216.sydney.edu.au.runningdiary",
+            "certificate_hash": "6a6b77fa849492c49f7de2039b88b46316927a9c"
+          }
+        },
+        {
+          "client_id": "96023135185-h9jcefmtqon0maqo1u7dcq1gueddnq3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw9utbRPvjT2xdpsHnyBs_45-Eayr18Mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96023135185-h9jcefmtqon0maqo1u7dcq1gueddnq3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
