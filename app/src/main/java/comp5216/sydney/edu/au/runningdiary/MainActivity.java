@@ -49,4 +49,11 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
-}
+
+    public void onMapsButtonClick(View view) {
+        Intent intent = new Intent(MainActivity.this, MapsActivity.class);
+        if (intent != null) {
+            startActivity(intent);
+
+        }
+    }}
